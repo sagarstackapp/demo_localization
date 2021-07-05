@@ -1,0 +1,12 @@
+{
+  "@@locale": "en_US",
+  "english": "English",
+  "portuguese": "Portuguese",
+  "appTitle": "Localization Demo",
+  "users": "Users",
+  "localizations": "Localization",
+  "theme": "Theme",
+  "userDetails" : "User Details",
+  "localization" : "Localization Menu",
+  "currentLanguage": "Current Language"
+}

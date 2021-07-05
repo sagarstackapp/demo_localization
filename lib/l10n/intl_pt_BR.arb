@@ -1,0 +1,12 @@
+{
+  "@@locale": "pt_BR",
+  "english": "inglês",
+  "portuguese": "português",
+  "appTitle": "Demonstração de localização",
+  "users": "Comercial",
+  "localizations": "Localizações",
+  "theme": "Tema",
+  "userDetails" : "Detalhes do usuario",
+  "localization" : "Menu de localização",
+  "current Language": "Idioma atual"
+}
